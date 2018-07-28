@@ -43,5 +43,5 @@ Esto te facilitará encontrar los archivos referenciados en el resto de esta gu�
 </div>
 {: .notice--info}
 
-[Comencemos](/guia_dsi/guía/comencemos){: .btn .btn--light-outline}
+[Comencemos](/guía/comencemos){: .btn .btn--light-outline}
 {: style="text-align: center;"}

@@ -6,7 +6,7 @@ excerpt: "Una guía completa de hacking para Nintendo DSi, desde stock hasta DSi
 header:
   overlay_color: "#1a1d24"
   cta_label: "Comencemos"
-  cta_url: /guia_dsi/guía/comencemos
+  cta_url: /guía/comencemos
 ---
 
 Esta guía no es compatible con consolas DSi de desarrollo.

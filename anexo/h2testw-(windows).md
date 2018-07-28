@@ -12,7 +12,7 @@ Esta es una sección adicional para revisar tu tarjeta SD en busca de errores us
 
 Dependiendo del tamaño tu tarjeta SD y la velocidad de tu computadora, ¡este proceso podría tardar varias horas!
 
-Esta página es sólo para usuarios de Windows. Si no estás en Windows, revisa las páginas [F3 (Linux)](/guia_dsi/anexo/f3-(linux)) o [F3X (macOS)](/guia_dsi/anexo/f3x-(macos)).
+Esta página es sólo para usuarios de Windows. Si no estás en Windows, revisa las páginas [F3 (Linux)](/anexo/f3-(linux)) o [F3X (macOS)](/anexo/f3x-(macos)).
 
 ## Descargas
 
@@ -38,5 +38,5 @@ Si se muestra el resultado `Test finished without errors`, significa que tu tarj
 Si la comprobación muestra otro tipo de resultado, ¡tu tarjeta SD puede estar corrupta o dañada y tendrás que reemplazarla!
 {: .notice--danger}
 
-[Comencemos](/guia_dsi/guía/comencemos){: .btn .btn--light-outline}
+[Comencemos](/guía/comencemos){: .btn .btn--light-outline}
 {: style="text-align: center;"}

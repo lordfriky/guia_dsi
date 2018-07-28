@@ -1,60 +1,60 @@
 main:
   - title: "FAQ"
-    url: /guia_dsi/ayuda/faq
+    url: /ayuda/faq
   - title: "Grupos"
-    url: /guia_dsi/ayuda/grupos
+    url: /ayuda/grupos
   - title: "Créditos"
-    url: /guia_dsi/créditos
+    url: /créditos
   - title: "Dumpeando DSiWare desde 3DS"
-    url: /guia_dsi/más/dumpeando-dsiware
+    url: /más/dumpeando-dsiware
   - title: "Instalando DSiWare"
-    url: /guia_dsi/más/instalando-dsiware
+    url: /más/instalando-dsiware
   - title: "Reemplazando el menú del sistema con DSiMenu++"
-    url: /guia_dsi/guía/reemplazando-menu-del-sistema/
+    url: /guía/reemplazando-menu-del-sistema/
   - title: "Instalando DSiMenu++ en 3DS"
-    url: /guia_dsi/anexo/instalando-dsimenu++-3ds
+    url: /anexo/instalando-dsimenu++-3ds
   - title: "Donaciones"
-    url: /guia_dsi/donaciones
+    url: /donaciones
 
 side:
   - title: Guía
     children:
       - title: "Comencemos"
-        url: /guia_dsi/guía/comencemos/
+        url: /guía/comencemos/
       - title: "Instalando Unlaunch (Flipnote)"
-        url: /guia_dsi/guía/instalando-unlaunch-(flipnote)/
+        url: /guía/instalando-unlaunch-(flipnote)/
       - title: "Instalando Unlaunch (Hardmod)"
-        url: /guia_dsi/guía/instalando-unlaunch-(hardmod)/
+        url: /guía/instalando-unlaunch-(hardmod)/
       - title: "Instalando HiyaCFW"
-        url: /guia_dsi/guía/instalando-hiyacfw/
+        url: /guía/instalando-hiyacfw/
       - title: "Reemplazando el menú del sistema con DSiMenu++"
-        url: /guia_dsi/guía/reemplazando-menu-del-sistema/
+        url: /guía/reemplazando-menu-del-sistema/
       - title: "Finalizar Instalación"
-        url: /guia_dsi/guía/finalizar-instalación/
+        url: /guía/finalizar-instalación/
 
   - title: Más
     children:
       - title: "Dumpeando DSiWare desde 3DS"
-        url: /guia_dsi/más/dumpeando-dsiware/
+        url: /más/dumpeando-dsiware/
       - title: "Instalando DSiWare"
-        url: /guia_dsi/más/instalando-dsiware/
+        url: /más/instalando-dsiware/
 
   - title: Anexo
     children:
       - title: "Instalando DSiMenu++ en 3DS"
-        url: /guia_dsi/anexo/instalando-dsimenu++-3ds
+        url: /anexo/instalando-dsimenu++-3ds
       - title: "Extensiones de archivo (Windows)"
-        url: /guia_dsi/anexo/extensiones-de-archivo-(windows)
+        url: /anexo/extensiones-de-archivo-(windows)
       - title: "H2testw (Windows)"
-        url: /guia_dsi/anexo/h2testw-(windows)
+        url: /anexo/h2testw-(windows)
       - title: "F3 (Linux)"
-        url: /guia_dsi/anexo/f3-(linux)
+        url: /anexo/f3-(linux)
       - title: "F3X (macOS)"
-        url: /guia_dsi/anexo/f3x-(macos)
+        url: /anexo/f3x-(macos)
 
   - title: Ayuda
     children:
       - title: "Grupos"
-        url: /guia_dsi/ayuda/grupos/
+        url: /ayuda/grupos/
       - title: "FAQ"
-        url: /guia_dsi/ayuda/faq/
+        url: /ayuda/faq/
