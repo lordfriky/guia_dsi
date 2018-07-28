@@ -1,0 +1,42 @@
+es: &DEFAULT_ES
+  page                       : "Página"
+  pagination_previous        : "Anterior"
+  pagination_next            : "Siguiente"
+  breadcrumb_home_label      : "Inicio"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Desplegar Menú"
+  toc_label                  : "Contenidos"
+  ext_link_label             : "Enlace"
+  less_than                  : "menos de"
+  minute_read                : "minuto de lectura"
+  share_on_label             : "Compartir"
+  meta_label                 :
+  tags_label                 : "Etiquetas:"
+  categories_label           : "Categorías:"
+  date_label                 : "Actualizado:"
+  comments_label             : "Comentar"
+  comments_title             :
+  more_label                 : "Ver más"
+  related_label              : "Podrías ver también"
+  follow_label               : "Seguir:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "Sitio web"
+  email_label                : "Email"
+  recent_posts               : "Entradas recientes"
+  undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
+  comment_form_info          : "Su dirección de correo no será publicada. Se han resaltado los campos requeridos"
+  comment_form_comment_label : "Comentario"
+  comment_form_md_info       : "Markdown está soportado."
+  comment_form_name_label    : "Nombre"
+  comment_form_email_label   : "Dirección de E-mail"
+  comment_form_website_label : "Sitio web (opcional)"
+  comment_btn_submit         : "Enviar Commentario"
+  comment_btn_submitted      : "Enviado"
+  comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
+  comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
+  loading_label              : "Cargando..."
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES

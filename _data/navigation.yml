@@ -1,0 +1,60 @@
+main:
+  - title: "FAQ"
+    url: /guia_dsi/ayuda/faq
+  - title: "Grupos"
+    url: /guia_dsi/ayuda/grupos
+  - title: "Créditos"
+    url: /guia_dsi/créditos
+  - title: "Dumpeando DSiWare desde 3DS"
+    url: /guia_dsi/más/dumpeando-dsiware
+  - title: "Instalando DSiWare"
+    url: /guia_dsi/más/instalando-dsiware
+  - title: "Reemplazando el menú del sistema con DSiMenu++"
+    url: /guia_dsi/guía/reemplazando-menu-del-sistema/
+  - title: "Instalando DSiMenu++ en 3DS"
+    url: /guia_dsi/anexo/instalando-dsimenu++-3ds
+  - title: "Donaciones"
+    url: /guia_dsi/donaciones
+
+side:
+  - title: Guía
+    children:
+      - title: "Comencemos"
+        url: /guia_dsi/guía/comencemos/
+      - title: "Instalando Unlaunch (Flipnote)"
+        url: /guia_dsi/guía/instalando-unlaunch-(flipnote)/
+      - title: "Instalando Unlaunch (Hardmod)"
+        url: /guia_dsi/guía/instalando-unlaunch-(hardmod)/
+      - title: "Instalando HiyaCFW"
+        url: /guia_dsi/guía/instalando-hiyacfw/
+      - title: "Reemplazando el menú del sistema con DSiMenu++"
+        url: /guia_dsi/guía/reemplazando-menu-del-sistema/
+      - title: "Finalizar Instalación"
+        url: /guia_dsi/guía/finalizar-instalación/
+
+  - title: Más
+    children:
+      - title: "Dumpeando DSiWare desde 3DS"
+        url: /guia_dsi/más/dumpeando-dsiware/
+      - title: "Instalando DSiWare"
+        url: /guia_dsi/más/instalando-dsiware/
+
+  - title: Anexo
+    children:
+      - title: "Instalando DSiMenu++ en 3DS"
+        url: /guia_dsi/anexo/instalando-dsimenu++-3ds
+      - title: "Extensiones de archivo (Windows)"
+        url: /guia_dsi/anexo/extensiones-de-archivo-(windows)
+      - title: "H2testw (Windows)"
+        url: /guia_dsi/anexo/h2testw-(windows)
+      - title: "F3 (Linux)"
+        url: /guia_dsi/anexo/f3-(linux)
+      - title: "F3X (macOS)"
+        url: /guia_dsi/anexo/f3x-(macos)
+
+  - title: Ayuda
+    children:
+      - title: "Grupos"
+        url: /guia_dsi/ayuda/grupos/
+      - title: "FAQ"
+        url: /guia_dsi/ayuda/faq/
