@@ -12,12 +12,12 @@ header:
 Esta guía no es compatible con consolas DSi de desarrollo.
 {: .notice--info}
 
-## ¿Qué es el homebrew?
+La guía está en beta, puede que falten páginas.
+{: .notice--warning}
 
-Las aplicaciones homebrew son customizadas, software casero que no han sido autorizado por Nintendo. Esto incluye herramientas de edición de partidas guardadas, juegos, emuladores, y más.
+## ¿Qué puedes instalar con esta guía?
 
-
-Puedes hacer funcionar homebrew gratuitamente en tu DSi si dispones de una copia instalada de Flipnote Studio o un DSiWare previamente exploiteado.
+Con esta guía puedes instalar HiyaCFW y después DSiMenu++, un custom launcher para DSi. Este custom launcher puede instalarse en cualquier consola en cualquier versión.
 
 ## ¿Qué son los Custom Firmware?
 
@@ -27,16 +27,17 @@ Con HiyaCFW podrás, además, ejecutar el sistema directamente de la tarjeta SD,
 
 ## ¿Qué son los Custom Launcher?
 
+Los **Custom Launchers** son aplicaciones homebrew capaz de reemplazar el menú de tu sistema y lanzar (generalmente) cosas que no podrías con el menú de inicio oficial.
+
+
+Usando DSiMenu++ tendrás una interfaz unificada para ejecutar tus copias de juegos de NDS, GB, GBA, NES; homebrews (usando o no nds-bootstrap) y DSiWare, además podrás saltar el límite bloques permitidos de DSiWare impuesto por Nintendo.
+
+## ¿Qué es el homebrew?
+
 Las aplicaciones homebrew son customizadas, software casero que no han sido autorizado por Nintendo. Esto incluye herramientas de edición de partidas guardadas, juegos, emuladores, y más.
 
 
-Puedes hacer funcionar homebrew gratuitamente en tu DSi si dispones de una copia instalada de Flipnote Studio o un DSiWare previamente exploiteado.
-
-## ¿Qué puedes instalar con esta guía?
-
-Con esta guía puedes instalar DSiMenu++, un custom launcher para DSi. Este custom launcher puede instalarse en cualquier consola en cualquier versión.
-
-El custom launcher te permite más características que el menú del sistema. Por ejemplo, podrás saltar el límite de DSiWare impuesto por Nintendo y ejecutarlo desde la SD, además de tener igualmente la posibilidad de ejecutar ROMs de NDS mediante nds-bootstrap.
+Puedes hacer funcionar homebrew gratuitamente en tu DSi si dispones de una copia instalada de Flipnote Studio o un DSiWare previamente explotado.
 
 ## ¿Qué deberías saber antes de empezar?
 
