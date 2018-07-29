@@ -9,7 +9,7 @@ name                     : "Lord Friky"
 description              : "Una guía completa de hacking para Nintendo DSi, desde stock hasta DSiMenu++"
 url                      : https://lordfriky.github.io
 baseurl                  : /guia_dsi
-repository               : https://github.com/lordfriky/guia_dsi
+repository               : lordfriky/guia_dsi
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

@@ -12,7 +12,7 @@ Esta es una sección adicional para revisar tu tarjeta SD en busca de errores us
 
 Dependiendo del tamaño tu tarjeta SD y la velocidad de tu computadora, ¡este proceso puede tardar varias horas!
 
-Esta página es sólo para usuarios de macOS. Si no estás en macOS, revisa las páginas [H2testw (Windows)](/anexo/h2testw-(windows)) o [F3 (Linux)](/anexo/f3-(linux)).
+Esta página es sólo para usuarios de macOS. Si no estás en macOS, revisa las páginas [H2testw (Windows)](/guia_dsi/anexo/h2testw-(windows)) o [F3 (Linux)](/guia_dsi/anexo/f3-(linux)).
 
 ## Descargas
 
@@ -35,5 +35,5 @@ Si la comprobación muestra el resultado `Success! Your card is ok!` tu tarjeta 
 Si la comprobación muestra otro tipo de resultado, ¡tu tarjeta SD puede estar corrupta o dañada y tendrás que reemplazarla!
 {: .notice--danger}
 
-[Comencemos](/guía/comencemos){: .btn .btn--light-outline}
+[Comencemos](/guia_dsi/guía/comencemos){: .btn .btn--light-outline}
 {: style="text-align: center;"}

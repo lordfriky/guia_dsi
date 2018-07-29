@@ -12,7 +12,7 @@ Esta es una sección adicional para revisar tu tarjeta SD en busca de errores us
 
 Dependiendo del tamaño de tu tarjeta SD y la velocidad de tu computadora, ¡este proceso podría tardar varias horas!
 
-Esta página es sólo para usuarios de Linux. Si no estás en Linux, revisa las páginas [H2testw (Windows)](/anexo/h2testw-(windows)) o [F3X (macOS)](/anexo/f3x-(macos)).
+Esta página es sólo para usuarios de Linux. Si no estás en Linux, revisa las páginas [H2testw (Windows)](/guia_dsi/anexo/h2testw-(windows)) o [F3X (macOS)](/guia_dsi/anexo/f3x-(macos)).
 
 ## Descargas
 
@@ -64,5 +64,5 @@ Si la comprobación muestra el resultado `Data LOST: 0.00 Byte (0 sectors)` tu t
 Si la comprobación muestra otro tipo de resultado, ¡tu tarjeta SD puede estar corrupta o dañada y tendrás que reemplazarla!
 {: .notice--danger}
 
-[Comencemos](/guía/comencemos){: .btn .btn--light-outline}
+[Comencemos](/guia_dsi/guía/comencemos){: .btn .btn--light-outline}
 {: style="text-align: center;"}

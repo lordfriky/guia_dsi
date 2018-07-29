@@ -17,8 +17,8 @@ Unlaunch es un explit de inicio de DSi que te permitirá instalar HiyaCFW, un cu
 - [Unlaunch v0.8](https://problemkaputt.de/unlau08.zip)
 - La última versión de [Unlaunch](https://problemkaputt.de/unlaunch.zip)
 - La última versión de [HBMenu](https://github.com/devkitPro/nds-hb-menu/releases/){:target="_ blank"}
-- La última versión de [ugopwn](/archivos/ugopwn.zip)
-- La última versión de [fwTool](/archivos/fwTool.nds)
+- La última versión de [ugopwn](/guia_dsi/archivos/ugopwn.zip)
+- La última versión de [fwTool](/guia_dsi/archivos/fwTool.nds)
 
 ## Preparando la tarjeta SD
 
@@ -87,5 +87,5 @@ Con Unlaunch instalado tu consola tiene un sistema antibrick muy primitivo, a me
 
 Ahora puedes eliminar el archivo `bootcode.dsi` de tu tarjeta SD. Esto hará que no tengas que presionar (A) mientras enciendes la consola.
 
-[Instalando HiyaCFW](/guía/instalando-hiyacfw){: .btn .btn--light-outline}
+[Instalando HiyaCFW](/guia_dsi/guía/instalando-hiyacfw){: .btn .btn--light-outline}
 {: style="text-align: center;"}

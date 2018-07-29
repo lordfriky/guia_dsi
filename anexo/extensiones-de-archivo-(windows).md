@@ -21,7 +21,7 @@ Esto te facilitar√° encontrar los archivos referenciados en el resto de esta gu√
 3. Marca la casilla que dice "Extensiones de nombre de archivo".
 
 <div align="center">
-<img src="/assets/images/extensiones-de-archivo-windows-10.png">
+<img src="/guia_dsi/assets/images/extensiones-de-archivo-windows-10.png">
 </div>
 {: .notice--info}
 
@@ -31,7 +31,7 @@ Esto te facilitar√° encontrar los archivos referenciados en el resto de esta gu√
 2. Busca "Opciones de carpeta" y selecciona el resultado con el mismo nombre.
 
 <div align="center">
-<img src="/assets/images/opciones-de-carpeta-menu-inicio-windows-7.png">
+<img src="/guia_dsi/assets/images/opciones-de-carpeta-menu-inicio-windows-7.png">
 </div>
 {: .notice--info}
 
@@ -39,9 +39,9 @@ Esto te facilitar√° encontrar los archivos referenciados en el resto de esta gu√
 4. Desmarca la casilla que dice "Ocultar las extensiones de archivo para tipos de archivo conocidos".
 
 <div align="center">
-<img src="/assets/images/opciones-de-carpeta-windows-7.png">
+<img src="/guia_dsi/assets/images/opciones-de-carpeta-windows-7.png">
 </div>
 {: .notice--info}
 
-[Comencemos](/gu√≠a/comencemos){: .btn .btn--light-outline}
+[Comencemos](/guia_dsi/gu√≠a/comencemos){: .btn .btn--light-outline}
 {: style="text-align: center;"}
