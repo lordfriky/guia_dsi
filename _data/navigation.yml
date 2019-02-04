@@ -1,8 +1,8 @@
 main:
   - title: "FAQ"
     url: /ayuda/faq
-  - title: "Grupos"
-    url: /ayuda/grupos
+  - title: "Comunidades"
+    url: /ayuda/comunidades
   - title: "Dumpeando DSiWare desde 3DS"
     url: /más/dumpeando-dsiware
   - title: "Instalando DSiWare"

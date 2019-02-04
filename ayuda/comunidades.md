@@ -1,5 +1,5 @@
 ---
-title: Grupos
+title: Comunidades
 layout: help
 sidebar:
   nav: "side"
@@ -8,7 +8,7 @@ sidebar:
 Por favor lee nuestro [FAQ](/guia_dsi/ayuda/faq) antes de pedir ayuda.
 {: .notice--info}
 
-Si tienes alguna duda o problema con respecto a las guías en este sitio, por favor pregunta en estos grupos.
+Si tienes alguna duda o problema con respecto a las guías en este sitio, por favor pregunta en estas comunidades.
 
 ---
 
