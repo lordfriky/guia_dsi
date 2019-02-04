@@ -13,8 +13,6 @@ main:
     url: /guía/reemplazando-menu-del-sistema/
   - title: "Instalando DSiMenu++ en 3DS"
     url: /anexo/instalando-dsimenu++-3ds
-  - title: "Donaciones"
-    url: /donaciones
 
 side:
   - title: Guía
