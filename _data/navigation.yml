@@ -37,16 +37,12 @@ side:
 
   - title: Anexo
     children:
-      - title: "Instalando DSiMenu++ en 3DS"
-        url: /anexo/instalando-dsimenu++-3ds
+      - title: "Comprobación de SD"
+        url: /anexo/comprobación-de-sd
       - title: "Extensiones de archivo (Windows)"
         url: /anexo/extensiones-de-archivo-(windows)
-      - title: "H2testw (Windows)"
-        url: /anexo/h2testw-(windows)
-      - title: "F3 (Linux)"
-        url: /anexo/f3-(linux)
-      - title: "F3X (macOS)"
-        url: /anexo/f3x-(macos)
+      - title: "Instalando DSiMenu++ en 3DS"
+        url: /anexo/instalando-dsimenu++-3ds
 
   - title: Ayuda
     children:
