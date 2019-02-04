@@ -5,7 +5,7 @@ sidebar:
   nav: "side"
 ---
 
-Esta guía está destinada a la instalación de Unlaunch, HiyaCFW y DSiMenu++ en un DSi *sin modificar*. Si buscas instalar DSiMenu++ en un 3DS o 2DS *ya modificado*, sigue [Instalando DSiMenu++ en 3DS](/guia_dsi/anexo/instalando-dsimenu++-3ds).
+Esta guía está destinada a la instalación de Unlaunch, HiyaCFW y TWiLight Menu++ en un DSi *sin modificar*. Si buscas instalar TWiLight Menu++ en un 3DS o 2DS *ya modificado*, sigue [Instalando TWiLight Menu++ en 3DS](/guia_dsi/anexo/instalando-twilight-menu++-3ds).
 {: .notice--primary}
 
 ¡Antes de empezar, deberías comprobar si tu tarjeta SD tiene errores mediante [Comprobación de SD](/guia_dsi/anexo/comprobación-de-sd)!

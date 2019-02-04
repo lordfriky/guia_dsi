@@ -1,5 +1,5 @@
 ---
-title: Instalando DSiMenu++ en 3DS
+title: Instalando TWiLight Menu++ en 3DS
 layout: single
 sidebar:
   nav: "side"

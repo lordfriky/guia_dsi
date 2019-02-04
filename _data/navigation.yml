@@ -9,8 +9,8 @@ main:
     url: /más/instalando-dsiware
   - title: "Reemplazando el menú del sistema con DSiMenu++"
     url: /guía/reemplazando-menu-del-sistema/
-  - title: "Instalando DSiMenu++ en 3DS"
-    url: /anexo/instalando-dsimenu++-3ds
+  - title: "Instalando TWiLight Menu++ en 3DS"
+    url: /anexo/instalando-twilight-menu++-3ds
 
 side:
   - title: Guía
@@ -41,8 +41,8 @@ side:
         url: /anexo/comprobación-de-sd
       - title: "Extensiones de archivo (Windows)"
         url: /anexo/extensiones-de-archivo-(windows)
-      - title: "Instalando DSiMenu++ en 3DS"
-        url: /anexo/instalando-dsimenu++-3ds
+      - title: "Instalando TWiLight Menu++ en 3DS"
+        url: /anexo/instalando-twilight-menu++-3ds
 
   - title: Ayuda
     children:
