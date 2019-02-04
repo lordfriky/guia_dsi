@@ -3,8 +3,6 @@ main:
     url: /ayuda/faq
   - title: "Grupos"
     url: /ayuda/grupos
-  - title: "Créditos"
-    url: /créditos
   - title: "Dumpeando DSiWare desde 3DS"
     url: /más/dumpeando-dsiware
   - title: "Instalando DSiWare"
