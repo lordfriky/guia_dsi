@@ -1,5 +1,5 @@
 ---
-title: Reemplazando el menú del sistema con DSiMenu++
+title: Reemplazando el menú del sistema con TWiLight Menu++
 layout: single
 sidebar:
   nav: "side"
