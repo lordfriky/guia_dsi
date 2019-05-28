@@ -25,4 +25,4 @@ TWiLight Menu++ tiene algunos emuladores integrados, los cuales son:
 - Necesitarás una tarjeta SD para esta guía.
   - Tu consola debería venir con una.
 
-## [¿A qué esperas? ¡Visita la guía ya! :)](https://lordfriky.github.io/guia_dsi/)
+## ¿A qué esperas?  [¡Visita la guía ya! :)](https://lordfriky.github.io/guia_dsi/)
