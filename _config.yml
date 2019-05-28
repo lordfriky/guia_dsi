@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Guía de DSi"
+title                    : "Guía de DSi [Beta]"
 title_separator          : "-"
 name                     : "Lord Friky"
 description              : "Una guía completa de hacking para Nintendo DSi, desde stock hasta DSiMenu++"

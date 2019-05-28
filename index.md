@@ -1,12 +1,12 @@
 ---
 layout: splash
 permalink: /
-title: Guía de DSi
+title: Guía de DSi [Beta]
 excerpt: "Una guía completa de hacking para Nintendo DSi, desde stock hasta TWiLight Menu++"
 header:
   overlay_color: "#1a1d24"
   cta_label: "Comencemos"
-  cta_url: /guía/comencemos
+  cta_url: /guía/instalando-unlaunch
 ---
 
 Esta guía no es compatible con consolas DSi de desarrollo.

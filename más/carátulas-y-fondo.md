@@ -1,5 +1,5 @@
 ---
-title: Instalando Unlaunch (Hardmod)
+title: Carátulas de juegos e imagen de fondo
 layout: single
 sidebar:
   nav: "side"

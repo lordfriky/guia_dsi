@@ -98,5 +98,5 @@ Si la comprobación muestra el resultado `Data LOST: 0.00 Byte (0 sectors)` tu t
 Si la comprobación muestra otro tipo de resultado, ¡tu tarjeta SD puede estar corrupta o dañada y tendrás que reemplazarla!
 {: .notice--danger}
 
-[Comencemos](/guia_dsi/guía/comencemos){: .btn .btn--light-outline}
+[Instalando Unlaunch](/guia_dsi/guía/instalando-unlaunch){: .btn .btn--light-outline}
 {: style="text-align: center;"}

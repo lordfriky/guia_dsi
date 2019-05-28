@@ -7,33 +7,31 @@ main:
     url: /más/dumpeando-dsiware
   - title: "Instalando DSiWare"
     url: /más/instalando-dsiware
-  - title: "Reemplazando el menú del sistema con TWiLight Menu++"
-    url: /guía/reemplazando-menu-del-sistema/
+  - title: "Emuladores con requisitos especiales"
+    url: /más/emuladores-requisitos-especiales/
   - title: "Instalando TWiLight Menu++ en 3DS"
     url: /anexo/instalando-twilight-menu++-3ds
 
 side:
   - title: Guía
     children:
-      - title: "Comencemos"
-        url: /guía/comencemos/
-      - title: "Instalando Unlaunch (Flipnote)"
-        url: /guía/instalando-unlaunch-(flipnote)/
-      - title: "Instalando Unlaunch (Hardmod)"
-        url: /guía/instalando-unlaunch-(hardmod)/
+      - title: "Instalando Unlaunch"
+        url: /guía/instalando-unlaunch/
       - title: "Instalando HiyaCFW"
         url: /guía/instalando-hiyacfw/
-      - title: "Reemplazando el menú del sistema con TWiLight Menu++"
-        url: /guía/reemplazando-menu-del-sistema/
       - title: "Finalizar Instalación"
         url: /guía/finalizar-instalación/
 
   - title: Más
     children:
+      - title: "Emuladores con requisitos especiales"
+        url: /más/emuladores-requisitos-especiales/
       - title: "Dumpeando DSiWare desde 3DS"
         url: /más/dumpeando-dsiware/
       - title: "Instalando DSiWare"
         url: /más/instalando-dsiware/
+      - title: "Carátulas de juegos e imagen de fondo"
+        url: /más/carátulas-y-fondo/
 
   - title: Anexo
     children:

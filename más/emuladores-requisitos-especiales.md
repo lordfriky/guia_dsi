@@ -1,5 +1,5 @@
 ---
-title: Reemplazando el menú del sistema con TWiLight Menu++
+title: Emuladores con requisitos especiales
 layout: single
 sidebar:
   nav: "side"
